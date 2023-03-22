@@ -1,5 +1,5 @@
 {
-    "name": "inkvizytor/fluentform",
+    "name": "mendel-ideo/fluentform",
     "description": "Form builder for Laravel",
     "keywords" : ["laravel","form","builder","form builder","bootstrap"],
     "license": "MIT",
@@ -10,9 +10,9 @@
         }
     ],
     "require": {
-        "php": ">=7.2.16",
-        "illuminate/contracts": "^6.0|^7.0|^8.0|^9.0",
-        "illuminate/support": "^6.0|^7.0|^8.0|^9.0"
+        "php": ">=8.1.0",
+        "illuminate/contracts": "^10.0",
+        "illuminate/support": "^10.0"
     },
     "autoload": {
         "psr-4": {
